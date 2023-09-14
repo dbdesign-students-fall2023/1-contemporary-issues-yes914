@@ -7,6 +7,8 @@ N12409151
 # TikTok’s Data Collection Causes Security and Privacy Risks Debate in the US
 In this document, I discuss two articles about TikTok’s Data Collection Causes Security and Privacy Risks Debate in the US and the claims made by some that it is a security and privacy threat to users and the nation.  I present and discuss two opposing views on this important matter.
 
+![TikTok](https://images.spiceworks.com/800x400/wp-content/uploads/2023/07/07100641/Shutterstock_2051937215.jpg)
+
 ## Article 1
 In Spiceworks's [There’s Nothing Confusing About TikTok’s Security Risks](https://www.npr.org/2018/03/20/595338116/what-did-cambridge-analytica-do-during-the-2016-election), explained and expressed national security concerns with China's involvement in TikTok.
 
