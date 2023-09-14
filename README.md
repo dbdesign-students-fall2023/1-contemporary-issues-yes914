@@ -8,11 +8,14 @@ N12409151
 In this document, I discuss two articles about TikTok’s Data Collection Causes Security and Privacy Risks Debate in the US and the claims made by some that it is a security and privacy threat to users and the nation.  I present and discuss two opposing views on this important matter.
 
 ## Article 1
-In Spiceworks's [There’s Nothing Confusing About TikTok’s Security Risks](https://www.spiceworks.com/it-security/data-security/guest-article/theres-nothing-confusing-about-tiktoks-security-risks/), provides a comprehensive overview of the privacy concerns of TikTok, and China's involvement in it also raises several national security concerns, contributing to the threat associated with the platform.
+In Spiceworks's [There’s Nothing Confusing About TikTok’s Security Risks](https://www.npr.org/2018/03/20/595338116/what-did-cambridge-analytica-do-during-the-2016-election), explained and expressed national security concerns with China's involvement in TikTok.
 
-The power of TikTok's acquisition of personally identifiable information (PII), digital data, and biometric identifiers is particularly concerning. It also reveals that TikTok stores user data outside of the United States, raising worries about its possible access by Chinese-based employees or even the Chinese government. The article emphasizes the importance of educating users about these privacy and safety issues and implementing technical safeguards to protect sensitive data from potential TikTok-related threats.
+The power of TikTok's acquisition of personally identifiable information (PII), digital data, and biometric identifiers is particularly concerning. It also reveals that TikTok stores user data outside of the United States, raising worries about its possible access by Chinese-based employees or even the Chinese government.
 
-Moreover, China's use of data as a national resource adds another layer to the perceived threat. The Chinese government officially declared data a national resource in 2019 and sees it as a means to gain economic, political, and strategic advantage. TikTok's extensive data collection practices are consistent with this approach, raising concerns that the data could be used for purposes other than the platform itself that could affect national security and international relations.
+Moreover, China's exploitation of data as a national resource adds to the perceived danger. In 2019, the Chinese government declared data a national resource, seeing it as an economic, political, and geopolitical asset. TikTok's huge data-collecting approaches may be compatible with this strategy, which raises worries that the data may be utilized for reasons other than the platform, affecting national security and international relations.
+
+
 
 ## Article 2
-Contrary to the claims made in Spiceworks's piece on the issue, Forbes's [TikTok Shouldn’t Be The Center Of The U.S. Data Privacy Debate](https://www.forbes.com/sites/forbestechcouncil/2023/08/01/tiktok-shouldnt-be-the-center-of-the-us-data-privacy-debate/?sh=5a9a76ac39b0)
+Contrary to the claims made in Spiceworks's piece on the issue, Forbes's [TikTok Shouldn’t Be The Center Of The U.S. Data Privacy Debate](https://www.forbes.com/sites/forbestechcouncil/2023/08/01/tiktok-shouldnt-be-the-center-of-the-us-data-privacy-debate/?sh=5a9a76ac39b0) argues for a more comprehensive and balanced approach to data privacy, acknowledging the need to address privacy concerns not only with foreign platforms like TikTok but also within U.S. tech companies. It calls for robust data privacy legislation and emphasizes the importance of ongoing efforts to protect user data and build trust with consumers.
+
