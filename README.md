@@ -17,5 +17,5 @@ Moreover, China's exploitation of data as a national resource adds to the percei
 
 
 ## Article 2
-Contrary to the claims made in Spiceworks's piece on the issue, Forbes's [TikTok Shouldn’t Be The Center Of The U.S. Data Privacy Debate](https://www.forbes.com/sites/forbestechcouncil/2023/08/01/tiktok-shouldnt-be-the-center-of-the-us-data-privacy-debate/?sh=5a9a76ac39b0) argues for a more comprehensive and balanced approach to data privacy, acknowledging the need to address privacy concerns not only with foreign platforms like TikTok but also within U.S. tech companies. It calls for robust data privacy legislation and emphasizes the importance of ongoing efforts to protect user data and build trust with consumers.
+Contrary to the claims made in Spiceworks's piece on the issue, Forbes's [TikTok Shouldn’t Be The Center Of The U.S. Data Privacy Debate](https://www.forbes.com/sites/forbestechcouncil/2023/08/01/tiktok-shouldnt-be-the-center-of-the-us-data-privacy-debate/?sh=5a9a76ac39b0) 
 
