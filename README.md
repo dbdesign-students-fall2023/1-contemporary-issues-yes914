@@ -8,7 +8,7 @@ N12409151
 In this document, I discuss two articles about TikTok’s Data Collection Causes Security and Privacy Risks Debate in the US and the claims made by some that it is a security and privacy threat to users and the nation.  I present and discuss two opposing views on this important matter.
 
 ## Article 1
-In Spiceworks's [There’s Nothing Confusing About TikTok’s Security Risks](https://www.npr.org/2018/03/20/595338116/what-did-cambridge-analytica-do-during-the-2016-election), provides a comprehensive overview of the privacy concerns of TikTok, and China's involvement in it also raises several national security concerns, contributing to the threat associated with the platform.
+In Spiceworks's [There’s Nothing Confusing About TikTok’s Security Risks](https://www.spiceworks.com/it-security/data-security/guest-article/theres-nothing-confusing-about-tiktoks-security-risks/), provides a comprehensive overview of the privacy concerns of TikTok, and China's involvement in it also raises several national security concerns, contributing to the threat associated with the platform.
 
 The power of TikTok's acquisition of personally identifiable information (PII), digital data, and biometric identifiers is particularly concerning. It also reveals that TikTok stores user data outside of the United States, raising worries about its possible access by Chinese-based employees or even the Chinese government. The article emphasizes the importance of educating users about these privacy and safety issues and implementing technical safeguards to protect sensitive data from potential TikTok-related threats.
 
